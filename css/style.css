@@ -1,0 +1,87 @@
+
+
+*{padding:0%;
+margin:0%;
+top:0;
+right:0;
+bottom: 0;
+left: 0;
+font-family: "'Roboto'", sans-serif;
+box-sizing: border-box;}
+
+.content1{background-color: #1CD1B0;
+    height: 40px;
+}
+
+/* clase descuento esta incluida en div cotent1*/
+.descuento{position: relative;
+    top: 30%}
+
+.heroesh1{background-color: #00669F;
+    height: 100px;
+}
+
+/* clase "heroes" esta incluida en div cotent1*/
+.heroes{position: relative;
+    top: 30%;}
+
+    main{padding:100px 0 100px 0;
+        }
+
+
+
+.BATMAN1CAJA{
+        width: 300px;
+        height: 529px;
+        left: 32px;
+        top: 292px;
+        background-color: #F3F3F3;
+        display:inline-block;
+        margin:2%
+        
+}
+
+/* clase "imgbatman1" esta incluida en section BATMAN1CAJA*/
+
+.imgbatman1{position: relative;
+top 0%,
+width: 300px;
+height: 193px}
+
+/* clase "imgbatman1-perfil" esta incluida en section BATMAN1CAJA*/
+
+.imgbatman1-perfil{border-radius:150px;
+                    position: relative;
+                    top:-10%;
+                display:block;
+                margin:auto}
+
+.tituloBatman{position: relative;
+            text-align: center;
+            top:-5%
+        }
+
+.Parrafo_informativo{position: relative;
+                    text-align: center;
+                    top:-2%
+                }
+
+.Boton_final{position: relative;
+        top:5%;
+    padding:10px;
+    border: #00669F solid 3px;
+    width: 85px;
+    display:block;
+    margin:auto;
+    background-color: #00669F;}
+
+a {text-decoration: none;
+    color:white;
+    }
+
+.content2{background-color: #00669F;
+    height: 40px}
+
+.derechos{color:white;
+            position: relative;
+            top:30%}
